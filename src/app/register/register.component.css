@@ -1,0 +1,14 @@
+.register {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.register-row {
+  background-color: blueviolet;
+  height: 100vh;
+}
+
+.register-col {
+  background-color: greenyellow;
+  height: 50vh;
+}

@@ -1,0 +1,19 @@
+.home-cont {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.home-row {
+  background-color: blueviolet;
+  height: 100vh;
+}
+
+.home-menu {
+  background-color: greenyellow;
+  height: 100vh;
+}
+
+.home-data {
+  background-color: orange;
+  height: 100vh;
+}
